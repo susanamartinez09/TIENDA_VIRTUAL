@@ -1,4 +1,4 @@
-READMEpara una zapatería, ya sea física o de comercio electrónico, depende de su propósito. ¿Se trata READMEde un proyecto de software que impulsa la tienda, un plan de negocios o algo más?
+para una zapatería, ya sea física o de comercio electrónico, depende de su propósito. ¿Se trata READMEde un proyecto de software que impulsa la tienda, un plan de negocios o algo más?
 
 Suponiendo que estás buscando una descripción general READMEque pueda servir como descripción general para un nuevo negocio de zapatería (ya sea física o en línea), aquí hay una plantilla que puedes adaptar:
 
